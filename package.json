@@ -1,0 +1,1 @@
+{"description":"Deterministic program that writes one short held-and-quiet text to /output/entry.txt","license":"MIT","main":"main.ts","name":"held-judge-text","type":"module","version":"1.0.0"}
