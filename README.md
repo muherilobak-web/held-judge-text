@@ -8,6 +8,6 @@ almost imperceptibly, with nothing asked of the reader and nothing to prove.
 The text is a fixed constant inside `main.ts`; every run produces the exact
 same bytes, with no network access, no randomness, and no external input.
 
-![Bounty](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600.svg)
-![Rank](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/muherilobak-web/held-judge-text/rank.svg)
-![Reward](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/muherilobak-web/held-judge-text/reward.svg)
+[![make.fun · make-the-ai-judge-feel-held-20261122-1600](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/muherilobak-web/held-judge-text/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/muherilobak-web/held-judge-text/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
